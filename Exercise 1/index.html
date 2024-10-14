@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Debugging Exercise</title>
+    <script>
+        // This is the code that needs to be fixed.
+        function troubleshooting() {
+            const a = 1;
+            const b = 1;
+
+            let result;
+
+            // Edit between these lines
+            // =================================
+            result = "a" + "b"; // This is not returning the correct value, can you fix it?
+
+            // =================================
+
+            return result;
+        }
+
+        // This will log the result to the console.
+        console.log("The result is:", troubleshooting());
+    </script>
+</head>
+<body>
+    <h1>JavaScript Debugging Exercise</h1>
+    <p>Your task is to fix the function <code>troubleshooting</code> so that it logs the number 2 to the console.</p>
+    <p>Currently, the function is returning an incorrect result. Carefully analyze the code and make the necessary changes without hardcoding the value.</p>
+    <p>Once you think you've fixed the issue, open the browser's Developer Console (Right-click and select "Inspect" then go to the "Console" tab) to see if the number 2 is logged as the result.</p>
+    <p><strong>Hint:</strong> The problem is in how the variables are being combined in the <code>result</code> line.</p>
+</body>
+</html>
