@@ -1,0 +1,1 @@
+Assign a grade based on a score (0-100). Ask the user for their score, and assign grades: 90-100: A, 80-89: B, 70-79: C, 60-69: D, below 60: F.

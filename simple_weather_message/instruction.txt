@@ -1,0 +1,1 @@
+Give a weather message based on temperature. Ask the user for the temperature. If it's above 30, display 'It's hot outside.' If it's below 10, display 'It's cold outside.' Otherwise, display 'The weather is moderate.'

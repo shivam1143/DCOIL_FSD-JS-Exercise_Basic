@@ -1,0 +1,1 @@
+Simulate a traffic light system. Ask the user to enter a traffic light color (red, yellow, green). Give the appropriate action: Red for Stop, Yellow for Get ready, Green for Go.

@@ -1,0 +1,1 @@
+Validate a simple password. Ask the user to enter a password and check if it matches a preset value. Show an alert saying whether the password is correct or incorrect.

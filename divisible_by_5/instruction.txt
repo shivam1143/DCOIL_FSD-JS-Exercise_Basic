@@ -1,0 +1,1 @@
+Check if a number is divisible by 5. Prompt the user for a number, check if it's divisible by 5, and show an alert indicating whether or not the number is divisible by 5.

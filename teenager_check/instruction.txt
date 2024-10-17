@@ -1,0 +1,1 @@
+Determine if someone is a teenager. Prompt the user to enter their age. Check if the age is between 13 and 19. Show an alert saying whether or not the user is a teenager.
