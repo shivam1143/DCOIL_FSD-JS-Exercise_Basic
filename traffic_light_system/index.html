@@ -8,7 +8,19 @@
 </head>
 <body>
     <script>
-        // Write your code here
+        let color = prompt("Enter a traffic light color");
+        
+color = color.toLowerCase();
+
+if (color === "red") {
+    console.log("Stop!");
+} else if (color === "yellow") {
+    console.log("Get ready!");
+} else if (color === "green") {
+    console.log("Go!");
+} else {
+    console.log("Please enter Valid Color");
+}
     </script>
 </body>
 </html>
